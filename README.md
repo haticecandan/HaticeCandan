@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, HTML,CSS and Javascript**
 
-- 🤝 I’m looking for help with **Python**
-
 - 📝 I regularly write articles on [https://medium.com/@haticecandan](https://medium.com/@haticecandan)
 
 - 📫 How to reach me **hatcan95@gmail.com**

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hatice Candan</h1>
 <h3 align="center">Engineer | Machine Learning and Deep Learning Enthusiast</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticecandan)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **Python**
 

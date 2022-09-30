@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Hatice Candan. </h1>
-<h3 align="center">I am engineer and interested in Machine Learning and Data Science with Python. I am open to freelance projects and job offers.</h3>
+<h3 align="center">I am engineer and interested in Machine Learning and Data Science with Python.</h3> 
 
+ I am open to freelance projects and job offers.
+ You can see my Github stats below.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticecandan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

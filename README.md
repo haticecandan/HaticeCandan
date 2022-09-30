@@ -1,6 +1,6 @@
 Hi 👋, I'm Hatice Candan from Turkey. I am Engineer and interested in Machine Learning and Data Science with Python. I am open to freelance projects and job offers.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticecandan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticecandan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **Python**
 

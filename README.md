@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋👩🏾‍💻, I'm Hatice Candan from Turkey. </h1>
-<h3 align="left">I am engineer and interested in Machine Learning and Data Science with Python.</h3> 
-<h3 align="left">I am open to work freelance projects and job offers.You can see my Github stats below.</h3> 
 
+
+
+<h1 align="center">Hi there 👋👩🏾‍💻, I'm Hatice Candan from Turkey. </h1>
+<h3 align="left">I am engineer who is passionate about Machine Learning and Data Science. I really enjoy working with Python and open to work freelance projects and job offers. </h3> 
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticecandan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

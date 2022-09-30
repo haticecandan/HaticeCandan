@@ -1,5 +1,5 @@
 ![Hatice Candan](https://github.com/haticecandan/haticecandan/blob/main/github-header-imagee.png)
-<h3 align="center">I am engineer who is passionate about Machine Learning and Data Science. 
+<h3 align="center">I'm a Electrical & Electronics Engineering student who is passionate about Machine Learning and Data Science from Turkey. 
 I really enjoy working with Python and open to work freelance projects and job offers. </h3> 
  
 

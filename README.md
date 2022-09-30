@@ -1,6 +1,4 @@
-
-
-
+![Hatice Candan](https://github.com/haticecandan/haticecandan/blob/main/github-header-image.png)
 <h1 align="center">Hi there 👋👩🏾‍💻, I'm Hatice Candan from Turkey. </h1>
 <h3 align="left">I am engineer who is passionate about Machine Learning and Data Science. I really enjoy working with Python and open to work freelance projects and job offers. </h3> 
  

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hatice Candan. </h1>
 <h3 align="center">I am engineer and interested in Machine Learning and Data Science with Python.</h3> 
-<h5 align="center">I am open to freelance projects and job offers.You can see my Github stats below.</h3> 
+<h3 align="center">I am open to freelance projects and job offers.You can see my Github stats below.</h3> 
 
  
 

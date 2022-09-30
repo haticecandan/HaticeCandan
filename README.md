@@ -1,4 +1,5 @@
-Hi 👋, I'm Hatice Candan from Turkey. I am Engineer and interested in Machine Learning and Data Science with Python. 
+<h1 align="center">Hi 👋, I'm Hatice Candan</h1>
+I am Engineer and interested in Machine Learning and Data Science with Python. 
 
 I am open to freelance projects and job offers.
 

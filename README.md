@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hatice Candan from Turkey. </h1>
+<h1 align="center">Hi there 👋👩🏾‍💻, I'm Hatice Candan from Turkey. </h1>
 <h3 align="left">I am engineer and interested in Machine Learning and Data Science with Python.</h3> 
 <h3 align="left">I am open to work freelance projects and job offers.You can see my Github stats below.</h3> 
 

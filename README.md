@@ -3,7 +3,7 @@
 <h3 align="center">I'm an Electrical & Electronics Engineering student who is passionate about Machine Learning and Data Science from Turkey. 
 I really enjoy working with Python and open to work freelance projects and job offers. </h3> 
 
-- 🔭 I’m currently working on **Mia Teknoloji**
+- 🔭 I’m currently working on AI projects 
 
 - 🌱 I’m currently learning **Flask**
 
